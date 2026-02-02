@@ -34,8 +34,8 @@ Aucune installation nécessaire, l'application est accessible en ligne via l'URL
 - HTML/CSS
 
 ## Auteurs
-- Emmy OUMERRETANE
-- Iris CORBILLE
+- OUMERRETANE Emmy | [GitHub-emmyo-git](https://github.com/emmyo-git)
+- CORBILLÉ Iris | [GitHub-emmyo-git](https://github.com/iriscrbl)
 
 ## Licence
 Projet étudiant
