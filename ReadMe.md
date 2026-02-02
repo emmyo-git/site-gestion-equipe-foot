@@ -35,7 +35,7 @@ Aucune installation nécessaire, l'application est accessible en ligne via l'URL
 
 ## Auteurs
 - OUMERRETANE Emmy | [GitHub-emmyo-git](https://github.com/emmyo-git)
-- CORBILLÉ Iris | [GitHub-emmyo-git](https://github.com/iriscrbl)
+- CORBILLÉ Iris | [GitHub-iriscrbl](https://github.com/iriscrbl)
 
 ## Licence
 Projet étudiant
